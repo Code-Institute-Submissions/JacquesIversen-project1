@@ -1,10 +1,26 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Chosen to go with the project Example idea 1. (History website)
+Allthough this might be a bit polarrized as the creator is a lifelong fan of the sport described in this site. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Thoughts on this is to inform a user a completely impartial and accurate description of the season finale race in the AbuDhabi Grand Prix 2021. 
+This, will be with my best skillset learned so far with the CI Fullstack course. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+I'll take you on a journey and will not be editing anything up above hence why I will now describe how the project is thought in my head. 
+
+- Formula 1 season 2021. 
+- Max Verstappen's not so glorious 1st world championship. 
+- A champ, a crybaby and lots of politics. 
+
+I would like this project to include, both in site videos, audiomessages, and some sort of poll (What kind, I haven't found out yet.)
+To begin with I'm using the Template provided by CI, and I'm using the Love Running Project to "remember" how to set up files and folders. (My knowledge is not bright enough yet to think of any other way)
+With that done, I'll try and use the same main nav header, and maybe style it a bit different. 
+I just thought of doing a multiple page system, describing each contender and their season. 
+
+At this point I have no idea what and why the Github/GitCommit/Push is a necessity, but I'll make sure to use it as with the 'love running' project. Same with the two Meta types: keywords and desription. 
+Tried to find a font simular to any of the 3 fonts used by the F1 franchise (https://imjustcreative.com/download-f1-fonts-formula-1-fonts/2021/09/16) But I was unsuccessful, I took to googlefonts to manually figure out simulars (max 5 mins pr type.) Now I'll try to duplicate colors found on F1's official website using color picker and a screenshot of the home page. 
+
+
 
 ## Gitpod Reminders
 

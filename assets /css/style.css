@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&family=Kdam+Thmor+Pro&display=swap'); /* Days One simular to the F1 Turbo Font. Will be used on nav, header and titles. Body will be Kdam Thmor*/
+
+/* colors: F1 Red: #e10600 text:#141218 white:#fff */
+
+/* Here follows the styling of the top Navigation bar and 'logo' */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+/* Here follows the styling of the top Navigation bar and 'logo' */
+#menu {
+    font-size: 140%;
+    letter-spacing: 5px;
+    font-family: Days One, sans-serif;
+    height: 150px;
+    max-width: 100%;
+    background: #e10600;
+}
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 25px;
+    text-transform: uppercase;
+}
+#menu, #logo {
+    line-height: 75px;
+    background-color: #e10800;
+    color: #fff;
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.active { 
+    border-bottom: 5px solid #141218;
+    color: #141218;
+}
+
+#logo {
+    float: left;
+    font-size: 200%;
+    margin-left: 30px;
+} 
+
+
+
+body {
+    font-family: Kdam Thmor Pro, sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+    letter-spacing: .2px;
+    background: #fff;
+    background-size: 100% auto;
+}
+
+#home-section {
+    background-color: #141218;
+}
