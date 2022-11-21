@@ -20,7 +20,8 @@ I just thought of doing a multiple page system, describing each contender and th
 At this point I have no idea what and why the Github/GitCommit/Push is a necessity, but I'll make sure to use it as with the 'love running' project. Same with the two Meta types: keywords and desription. 
 Tried to find a font simular to any of the 3 fonts used by the F1 franchise (https://imjustcreative.com/download-f1-fonts-formula-1-fonts/2021/09/16) But I was unsuccessful, I took to googlefonts to manually figure out simulars (max 5 mins pr type.) Now I'll try to duplicate colors found on F1's official website using color picker and a screenshot of the home page. 
 
-3 pages added, simular to the Loverunning project, and footer details with copied FA and script added. Feeling scared of any copyright vialation. As if its allowed to use logos, if your linking to the actual page. Links for accounts is different pr. page/bio Same with photos, I'm just finding random pictures from Pexels, or Shutterstruck.
+3 pages added, simular to the Loverunning project, and footer details with copied FA and script added. Feeling scared of any copyright vialation. As if its allowed to use logos, if your linking to the actual page. Links for accounts is different pr. page/bio Same with photos, I'm just finding random pictures from Pexels, or Shutterstruck. 
+
 
 ## Gitpod Reminders
 
