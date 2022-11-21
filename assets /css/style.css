@@ -165,8 +165,8 @@ color: #fff;
 
 /* Race Begins */
 
-#racestart {
-    height: 600px;
+#race {
+    height: 1200px;
     border-bottom: #e10600 3px solid;
     border-top: #e10600 3px solid;
 }
@@ -185,12 +185,28 @@ color: #fff;
 }
 
 .first-lap-yt {
-    padding: 25px;
+    padding: 0 20px;
     width: 50%;
     display: inline-block;
     height: 400px;
 }
 
+.mid-race {
+    float: right;
+    padding: 20px;
+}
+
+#push-right {
+    text-align: right;
+}
+.mid-race p {
+    padding: 20px;
+    letter-spacing: 2px;
+    color: #141218;    
+    text-align: justify;
+    width: 50%;
+    float: right;
+}
 
 /* Footer section */
 
