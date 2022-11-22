@@ -166,7 +166,7 @@ color: #fff;
 /* Race Begins */
 
 #race {
-    height: 1200px;
+    height: 1000px;
     border-bottom: #e10600 3px solid;
     border-top: #e10600 3px solid;
 }
@@ -196,16 +196,71 @@ color: #fff;
     padding: 20px;
 }
 
-#push-right {
+#push-right { /* Having trouble, defining this column, to match the h2 design from the left side columns. */
     text-align: right;
+    margin-right: 100px;
 }
 .mid-race p {
     padding: 20px;
     letter-spacing: 2px;
     color: #141218;    
     text-align: justify;
-    width: 50%;
+    width: 48%;
     float: right;
+}
+
+.mid-race-yt {
+        padding: 0 20px;
+        width: 50%;
+        display: inline-block;
+        height: 400px;
+        margin-top: 10px;
+}
+
+#race-ending {
+    height: 1000px;
+    background-color: #141218;
+    color: #fff;
+}
+
+.latifi {
+    padding: 20px;
+}
+
+.latifi p {
+    padding: 20px;
+    letter-spacing: 2px;  
+    text-align: justify;
+    width: 50%;
+    float: left;
+}
+.latifi-yt {
+    padding: 0 20px;
+    width: 50%;
+    display: inline-block;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.masi {
+    padding: 20px;
+}
+
+.masi p {
+    padding: 20px;
+    letter-spacing: 2px;   
+    text-align: justify;
+    width: 48%;
+    float: right;
+}
+
+.h2-masi {
+    text-align: right;
+    margin-right: 480px;
+}
+
+.ytlinks {
+    color: #fff;
 }
 
 /* Footer section */
