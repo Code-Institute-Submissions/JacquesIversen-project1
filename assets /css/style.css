@@ -254,9 +254,14 @@ color: #fff;
     float: right;
 }
 
+.h2-blank {
+    float: left;
+    width: 50%;
+}
+
 .h2-masi {
-    text-align: right;
-    margin-right: 480px;
+    float: left;
+    width: 50%;
 }
 
 .ytlinks {
@@ -269,12 +274,11 @@ footer {
     height: 100px;
     background-color: #141218;s
 }
-footer li {
-    display: inline;
-}
+
 footer ul {
     text-align: center;
 }
+
 footer i {
     color: #fff;
     font-size: 50px;
@@ -282,3 +286,15 @@ footer i {
     padding: 5px;
 }
 
+
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+
+@media (max-width: 800px) {
+    #flex-container {
+      flex-direction: column;
+    }
+  }
