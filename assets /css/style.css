@@ -195,10 +195,6 @@ color: #fff;
     padding: 20px;
 }
 
-#push-right { /* Having trouble, defining this column, to match the h2 design from the left side columns. */
-    text-align: right;
-    margin-right: 100px;
-}
 .mid-race p {
     padding: 20px;
     letter-spacing: 2px;
@@ -208,7 +204,7 @@ color: #fff;
     float: right;
 }
 
-.mid-race-yt {
+.mid-race-yt, .toto-yt {
         padding: 0 20px;
         width: 50%;
         display: inline-block;
@@ -241,9 +237,15 @@ color: #fff;
     margin-top: 10px;
 }
 
-.masi {
+.toto {
     padding: 20px;
 }
+.toto p {     
+    padding: 20px;
+    letter-spacing: 2px;
+    text-align: justify;
+    width: 48%;
+    float: right;}
 
 .masi p {
     padding: 20px;
@@ -310,20 +312,22 @@ footer i {
 #race  {
     height: 1280px;
 }
+#race-ending {
+    height: 1000px;
+}
 
 .mid-race h2 {
     float: left;
 }
-.race-open p, .latifi p  {
+.race-open p, .latifi p, .toto p{
     width: 40%;
     letter-spacing: 0px;
     padding: 10px;
 }
-.first-lap-yt, .latifi-yt {
+.first-lap-yt, .latifi-yt, .toto-yt {
     width: 60%;
     padding: 0, 10px;
 }
-
 .mid-race p{
     width: 100%;
     letter-spacing: 1px;
@@ -331,6 +335,9 @@ footer i {
 }
 .mid-race-yt {
     width: 100%;
+}
+.toto h2 {
+    float: left;
 }
 
 
