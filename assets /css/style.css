@@ -273,11 +273,12 @@ color: #fff;
 
 footer {
     height: 100px;
-    background-color: #141218;s
+    background-color: #141218;
+    text-align: center;
 }
 
-footer ul {
-    text-align: center;
+footer ul, li {
+    display: inline;
 }
 
 footer i {
@@ -339,6 +340,8 @@ footer i {
 .toto h2 {
     float: left;
 }
-
+footer {
+    background-color: #e10600;
+}
 
 }
