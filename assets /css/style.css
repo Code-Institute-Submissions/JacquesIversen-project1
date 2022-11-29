@@ -266,6 +266,48 @@ footer i {
     margin: 15px;
     padding: 5px;
 }
+/* Max's Page follows here */
+.max-img {
+    background: url(../images/max.3.jpeg) no-repeat center center;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    border-bottom: #e10600 3px solid;
+    border-top: #e10600 3px solid;
+}
+.season-2022-max, .season-2022-lewis {
+    height:400px;
+    background-color: #fff;
+}
+
+.max-2022 p, .ham-2022 p {
+    padding: 30px;
+    letter-spacing: 2px; 
+    text-align: justify;
+    width: 60%;
+}
+
+/* Lewis page follows here:*/
+
+.ham-img {
+    background: url(../images/Ham\ 2.jpeg) no-repeat center center;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    border-bottom: #e10600 3px solid;
+    border-top: #e10600 3px solid;
+}
+.ham-2022 h2, .max-2022 h2 {
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.ham-img p {
+    padding: 30px;
+    letter-spacing: 2px; 
+    text-align: justify;
+    width: 40%;
+}
 
 
 
@@ -322,6 +364,10 @@ footer i {
 footer {
     background-color: #e10600;
 }
+.ham-2022 p {
+    width: 100%;
+}
+
 }
 @media screen  and (max-width:900px) {
     #menu{
@@ -404,4 +450,20 @@ footer {
         font-size: 25px;
     }
 
+    /*Pages with Ham & Max */
+
+    .max-img, .ham-img {
+        height: 250px;
+    }
+    .season-2022-max {
+        display: grid;
+        height: 600px;
+    }
+    .max-2022 p, .ham-2022 p {
+        width: 100%;
+    }
+    .season-2022-lewis {
+        display: grid;
+        height: 1000px;
+    }
 }
