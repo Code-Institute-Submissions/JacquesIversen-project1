@@ -1,107 +1,139 @@
-# Project 1.    
+# Project 1.    Formula 1. 
 
 This project is the first of four in which we are to hand in for the Code Institute Full Stack Diploma. In this project we were asked to: Design an interactive Front-End web application using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
 
+This site will describe the last race of the formula 1 season of 2021. Who due to its controversy, have an obscure amount of partial viewpoints from journalists and fans. This site aims for describe the race without political interference. 
 
+<a href="https://ibb.co/sPxvSWr"><img src="https://i.ibb.co/9vK9XZj/Screen-Shot-2022-11-29-at-10-22-07-PM.png" alt="Screen-Shot-2022-11-29-at-10-22-07-PM" border="0"></a>
 
-## Authors
+# Features
 
-- [JacquesIversen](https://github.com/JacquesIversen)
+Navigation bar - Takes you to the three pages this wite contains. 
+- Home / index.html (Takes you to the homepage)
+- Max / max.html (Short description of Max Verstappen's accomplishments upon the 2021 season)
+- Lewis / lewis.html (Shorthand describtion of Lewis Hamilton on his upcoming 2022 season) 
 
-## Assessment Criteria 1
-1) Design a website that incorporates a main navigation menu and a structured layout. ![navbar](https://i.ibb.co/QdP9vvX/Screen-Shot-2022-11-29-at-4-50-07-PM.png)
+![navbar](https://i.ibb.co/QdP9vvX/Screen-Shot-2022-11-29-at-4-50-07-PM.png)
 
-2) Design a website that meets accessibility guidelines (e.g. contrast between background and foreground colours, non-text elements have planned alt text equivalents to cater for the visually impaired).
-## Color Reference
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Red | ![#E10600](https://www.colorhexa.com/e10600.png) #E10600 |
-| White | ![#FFFFFF](https://www.colorhexa.com/ffffff.png) #FFFFFF |
-| Black | ![#000000](https://www.colorhexa.com/000000.png) #000000 |
+The Navigation bar enables the user to easily navigate the site. 
 
-
-
-3) Design the organisation of information on the page following the principles of user experience design (headers are used to convey structure, information is easy to find due to being presented and categorised in terms of priority). 
-
+# Top Section
 
 <a href="https://ibb.co/MZDSLHp"><img src="https://i.ibb.co/ckc3d9t/Screen-Shot-2022-11-29-at-5-34-36-PM.png" alt="Screen-Shot-2022-11-29-at-5-34-36-PM" border="0"></a>
 
-4) Ensure that foreground information is never distracted by backgrounds.
+This sections is build by a black background with white textboxes containing narrow, but exciting information regarding the upcoming content of the site. 
 
-/* Fully inspired by the official F1-website in terms of colors and foreground/background */
+<a href="https://ibb.co/KjMxQMC"><img src="https://i.ibb.co/ccGhpGz/Screen-Shot-2022-11-29-at-10-33-06-PM.png" alt="Screen-Shot-2022-11-29-at-10-33-06-PM" border="0"></a>
 
-<a href="https://ibb.co/M58PtT7"><img src="https://i.ibb.co/84zPf39/Screen-Shot-2022-11-29-at-5-36-12-PM.png" alt="Screen-Shot-2022-11-29-at-5-36-12-PM" border="0"></a>
+In this img section, a red Ferrari 458-GT3 is used instead of an actual F1 car, due to insecurity concerning copyright. When this matter was solved, this actual picture (From shutterstock) had grown fond of the developer, hence it wasn't replaced. 
 
-5) Include graphics that are consistent in style and colour
+5 red dots, sitting on top of 5 green dots indicates the 10 lights of the F1 paddock. 
+The text inside the the dots/lights is the very notorious phrase of David Croft "Crofty" (F1 TV commentator)
 
-/* icons are inspired by formula ones Instagram and social media icons in which are used widely on all global sites.ß
+# Qualifying section 
+
+<a href="https://ibb.co/8848FDf"><img src="https://i.ibb.co/DKgK3Dv/Screen-Shot-2022-11-29-at-10-39-21-PM.png" alt="Screen-Shot-2022-11-29-at-10-39-21-PM" border="0"></a>
+
+A small black-background box with a silver merc (from pexels.com) pushed to the 2/3 side of the frame. A red border was added to fight the quite boring theme of black & white. The text sections sums only the Q3 element of the race. 
+
+# Race Section
+
+<a href="https://ibb.co/5YX7PjH"><img src="https://i.ibb.co/FskPFYT/Screen-Shot-2022-11-29-at-10-43-32-PM.png" alt="Screen-Shot-2022-11-29-at-10-43-32-PM" border="0"></a>
+
+Last two sections of the site contains of similar sections, but with different color scheme. Each paragraph concludes approximately 1/3 of the actual race, with the last desribing the aftermath. 
+
+Youtube videos are added, chosen NOT to run automatically. However, due to F1-TV's strict copyright-statements independent sites are not allowed to play videos outside of Youtube. Hyperlink was considered instead, but "meme-makers" were chosen instead to keep the intented design.
+
+# Footer Section
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TTcx6ZM/Screen-Shot-2022-11-29-at-5-37-47-PM.png" alt="Screen-Shot-2022-11-29-at-5-37-47-PM" border="0"></a>
 
-## Assessment Criteria 2 
-Test a Front-End web application through the development, implementation and deployment stages
+- Footer is designed with Fontawesome icons. 
+
+- Icons are taken from the LoveRunning, also viewable in repository. 
+Twitter is then replaced with Formula One's Official site. (Because who do Twitter except Trump)
+
+- Each page has individual accounts linked, except for the F1-page. 
+
+(Ex. Facebook icon on home page will direct you to Formula1's Fb page. Fb icon on Max's page will direct you to Max Verstappens Fb page, same with YT and IG and Lewis's page)
+
+- Footer will change color to red when taken into smaller screens.
+
+# Max Verstappen, and Lewis Hamilton Page
+
+- This site contains a very brief introduction to Max Verstappen impressive career so far. 
+
+<a href="https://ibb.co/ThcsfxJ"><img src="https://i.ibb.co/3h1n39V/Screen-Shot-2022-11-29-at-10-57-24-PM.png" alt="Screen-Shot-2022-11-29-at-10-57-24-PM" border="0"></a>
+
+Both pages are simular in design and shares design from CSS. 
 
 
-1)	Create a website of at least three pages, or (if using a single scrolling page) at least three separate page areas to match the design and to meet its stated purpose
- ![navbar](https://i.ibb.co/QdP9vvX/Screen-Shot-2022-11-29-at-4-50-07-PM.png) 
+<a href="https://ibb.co/NjBrtY5"><img src="https://i.ibb.co/G2S9nPy/Screen-Shot-2022-11-29-at-10-59-03-PM.png" alt="Screen-Shot-2022-11-29-at-10-59-03-PM" border="0"></a>
 
-2)	Write custom HTML code that passes through the official W3C validator with no issues. SKAL AENDRES SO.
 
-<a href="https://ibb.co/3YNPf47"><img src="https://i.ibb.co/h1WTXLy/314816776-2179666355557298-4679113184637958285-n.png" alt="314816776-2179666355557298-4679113184637958285-n" border="0"></a>
 
-3)	Write custom CSS code that passes through the official (Jigsaw) validator with no issues
+# Testing
 
-<a href="https://ibb.co/gwGGhSv"><img src="https://i.ibb.co/P4RR0cT/Screen-Shot-2022-11-29-at-5-49-50-PM.png" alt="Screen-Shot-2022-11-29-at-5-49-50-PM" border="0"></a>
+- Font // Intended was an actual font completely simular to F1's official font, but hard to optain. Therefore Font is chosen to come as close to official font. 
 
-4)	Incorporate images that are of sufficient resolution to not appear pixelated or stretched // Pictures on website with 400px diff.
+- Nav bar has an active design feature, almost simular to the one you'll find in the official F1 website. This follows through down towards 300px 
 
-<a href="https://ibb.co/qn9D3VC"><img src="https://i.ibb.co/7zVSdLQ/Screen-Shot-2022-11-29-at-5-51-41-PM.png" alt="Screen-Shot-2022-11-29-at-5-51-41-PM" border="0"></a>
+- Image with red Ferrari will keep its sharpness throughout wider screens, and "Lights out" design will change size matching current screensize. 
+Text within 'lights' will be removed in smaller screens.
 
-<a href="https://ibb.co/GtrLRBF"><img src="https://i.ibb.co/3MPqcGk/Screen-Shot-2022-11-29-at-5-51-54-PM.png" alt="Screen-Shot-2022-11-29-at-5-51-54-PM" border="0"></a>
+- Qualifying section will keep its integrity in larger screens, but the 'silver car' will vanish when smaller screens are used. 
 
-5)	Code all external links to open in a separate tab when clicked
-Everything done with nooper.        
+- Race section uses on-site YT-videos, but aren't official F1 production material due to copyright. This design will change from side/side to top/bottom on smaller screens. 
 
-<a href="https://ibb.co/xDbtY0L"><img src="https://i.ibb.co/L8yXrWR/Screen-Shot-2022-11-29-at-5-55-06-PM.png" alt="Screen-Shot-2022-11-29-at-5-55-06-PM" border="0"></a>
+- Testing on smaller screens is only down from 300px 
 
-6)	Use CSS media queries across the application to ensure the layout changes appropriately and maintains the page's structural integrity across device screen sizes. This process can be found below 371 in style.css.
+- All Youtube-videos are checked for viewable content.
+- All Icons are checked for correct landing location.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/K6Kr7Qb/Screen-Shot-2022-11-29-at-5-56-13-PM.png" alt="Screen-Shot-2022-11-29-at-5-56-13-PM" border="0"></a>
+- Youtube-links were comprised due to copyright issues from F1 TV and devoloper not agreeing to sacrifice intended design.
 
-7)	Use Semantic markup to structure HTML code / Done with sections and divs. 
+# Validator Testing
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qrYnf7x/Screen-Shot-2022-11-29-at-5-58-11-PM.png" alt="Screen-Shot-2022-11-29-at-5-58-11-PM" border="0"></a>
+## HTMl 
+- Index.html / 2 errors found, and solved, but if solved removes 'lights out' from their intended placement. Errors due to h1 placement.
 
-8)	Present the finished website with clearly understandable site-specific content, rather than Lorem Ipsum placeholder text
+<a href="https://ibb.co/y5LZZpY"><img src="https://i.ibb.co/ZKyFFSY/Screen-Shot-2022-11-29-at-11-25-40-PM.png" alt="Screen-Shot-2022-11-29-at-11-25-40-PM" border="0"></a>
 
-Font is found, looking alot like the actual F1 font, which was nearly impossible to optain due to copyright.
 
-9)	Implement clear navigation to allow users to find resources on the site intuitively. YT-links provides mentioned information. Links will guide user towards pages with more information.
+- max.html / No errors or faults.
+- lewis.html / No errors or faults.
 
-## Assessment Criteria 3
+- style.css / No errors or faults.
 
-Deploy a Front-End web application to a Cloud platform
 
-1)	Deploy a final version of the code to a cloud-based hosting platform (e.g. GitHub Pages) and test to ensure it matches the development version
+# Unfixed Bugs
+Validator Errors - When solved causes the whole site to crash completely.
 
-<a href="https://ibb.co/XXjfJyQ"><img src="https://i.ibb.co/2qW0K89/Screen-Shot-2022-11-29-at-6-02-29-PM.png" alt="Screen-Shot-2022-11-29-at-6-02-29-PM" border="0"></a>
+# Deployment
 
-Link for Website: [Click me to become a Formula1 fan](https://jacquesiversen.github.io/project1/)
+Site is deployed to GitHub pages and found within: The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
 
-2)	Use Git & GitHub for version control of an interactive web application up to deployment. // Check 
-3)	Remove commented-out code before pushing final changes to version control and deploying. // Check
-4)	Ensure that there are no broken internal links // Check
-5)	Insert screenshots of the finished project in the README Well.... Welcome..
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-## Assessment Criteria 4
-Maximise future maintainability through documentation, code structure and organisation
+(Used from LoveRunning ReadMe)
 
-1	Write a README.md file for the web application that explains its purpose, the value that it provides to its users, and the deployment procedure.
-2	Insert screenshots of the project features, give a brief description of what each feature does and explain its value to the user.
-3	Attribute all code from external sources to its original source via comments above the code and (for larger dependencies) in the README.
-4	Clearly separate and identify code written for the website and code from external sources (e.g. libraries or tutorials)
-5	Organise HTML and CSS code into well-defined and commented sections
-6	Place CSS code in external files linked to the HTML page in the HEAD element.
-7	Write code that meets at least minimum standards for readability (consistent indentation, blank lines only appear individually or, at most, in pairs)
-8	Name files consistently and descriptively, without spaces or capitalisation to allow for cross-platform compatibility.
-9	Group files in directories by file type (e.g. an assets directory will contain all static files and may be organised into sub-directories such as CSS, images, etc.)
+Livelink : https://jacquesiversen.github.io/project1/
+
+# Credits 
+
+## Design:
+- Color scheme from Formula one wesite : https://www.formula1.com/en.html
+- Colors found with devtools in Chrome. 
+- Active design with devtools in Chrome.
+- W3 Schools for help, especially with CSS issues. 
+
+## Content:
+- Homepage from Wikipedia : https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix, Content is not edited. Irrelevant infomation spared. 
+- Icons not only from FontAwesome, but also from the LoveRunning project. 
+
+## Media:
+- Youtube videos, not accurate, but satirical, 
+- Photes on homepage from Shuttershock and Pexels.
+- Photos on page Max and Lewis, taken from mighty Google. 
