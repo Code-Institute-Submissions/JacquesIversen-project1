@@ -1,125 +1,107 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Project 1.    
 
-Chosen to go with the project Example idea 1. (History website)
-Allthough this might be a bit polarrized as the creator is a lifelong fan of the sport described in this site. 
+This project is the first of four in which we are to hand in for the Code Institute Full Stack Diploma. In this project we were asked to: Design an interactive Front-End web application using HTML and CSS based on the principles of user experience design, accessibility and responsivity.
 
-Thoughts on this is to inform a user a completely impartial and accurate description of the season finale race in the AbuDhabi Grand Prix 2021. 
-This, will be with my best skillset learned so far with the CI Fullstack course. 
 
-I'll take you on a journey and will not be editing anything up above hence why I will now describe how the project is thought in my head. 
 
-- Formula 1 season 2021. 
-- Max Verstappen's not so glorious 1st world championship. 
-- A champ, a crybaby and lots of politics. 
+## Authors
 
-I would like this project to include, both in site videos, audiomessages, and some sort of poll (What kind, I haven't found out yet.)
-To begin with I'm using the Template provided by CI, and I'm using the Love Running Project to "remember" how to set up files and folders. (My knowledge is not bright enough yet to think of any other way)
-With that done, I'll try and use the same main nav header, and maybe style it a bit different. 
-I just thought of doing a multiple page system, describing each contender and their season. 
+- [JacquesIversen](https://github.com/JacquesIversen)
 
-At this point I have no idea what and why the Github/GitCommit/Push is a necessity, but I'll make sure to use it as with the 'love running' project. Same with the two Meta types: keywords and desription. 
-Tried to find a font simular to any of the 3 fonts used by the F1 franchise (https://imjustcreative.com/download-f1-fonts-formula-1-fonts/2021/09/16) But I was unsuccessful, I took to googlefonts to manually figure out simulars (max 5 mins pr type.) Now I'll try to duplicate colors found on F1's official website using color picker and a screenshot of the home page. 
+## Assessment Criteria 1
+1) Design a website that incorporates a main navigation menu and a structured layout. ![navbar](https://i.ibb.co/QdP9vvX/Screen-Shot-2022-11-29-at-4-50-07-PM.png)
 
-3 pages added, simular to the Loverunning project, and footer details with copied FA and script added. Feeling scared of any copyright vialation. As if its allowed to use logos, if your linking to the actual page. Links for accounts is different pr. page/bio Same with photos, I'm just finding random pictures from Pexels, or Shutterstruck. 
-Doing the red and green circles, I had the idea to add a interactive button, to make them change color, but came to realise this was JS operated. 
+2) Design a website that meets accessibility guidelines (e.g. contrast between background and foreground colours, non-text elements have planned alt text equivalents to cater for the visually impaired).
+## Color Reference
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Red | ![#E10600](https://www.colorhexa.com/e10600.png) #E10600 |
+| White | ![#FFFFFF](https://www.colorhexa.com/ffffff.png) #FFFFFF |
+| Black | ![#000000](https://www.colorhexa.com/000000.png) #000000 |
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+3) Design the organisation of information on the page following the principles of user experience design (headers are used to convey structure, information is easy to find due to being presented and categorised in terms of priority). 
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+<a href="https://ibb.co/MZDSLHp"><img src="https://i.ibb.co/ckc3d9t/Screen-Shot-2022-11-29-at-5-34-36-PM.png" alt="Screen-Shot-2022-11-29-at-5-34-36-PM" border="0"></a>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+4) Ensure that foreground information is never distracted by backgrounds.
 
-A blue button should appear to click: _Make Public_,
+/* Fully inspired by the official F1-website in terms of colors and foreground/background */
 
-Another blue button should appear to click: _Open Browser_.
+<a href="https://ibb.co/M58PtT7"><img src="https://i.ibb.co/84zPf39/Screen-Shot-2022-11-29-at-5-36-12-PM.png" alt="Screen-Shot-2022-11-29-at-5-36-12-PM" border="0"></a>
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+5) Include graphics that are consistent in style and colour
 
-To log into the Heroku toolbelt CLI:
+/* icons are inspired by formula ones Instagram and social media icons in which are used widely on all global sites.ß
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TTcx6ZM/Screen-Shot-2022-11-29-at-5-37-47-PM.png" alt="Screen-Shot-2022-11-29-at-5-37-47-PM" border="0"></a>
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Assessment Criteria 2 
+Test a Front-End web application through the development, implementation and deployment stages
 
-------
 
-## Release History
+1)	Create a website of at least three pages, or (if using a single scrolling page) at least three separate page areas to match the design and to meet its stated purpose
+ ![navbar](https://i.ibb.co/QdP9vvX/Screen-Shot-2022-11-29-at-4-50-07-PM.png) 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+2)	Write custom HTML code that passes through the official W3C validator with no issues. SKAL AENDRES SO.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+<a href="https://ibb.co/3YNPf47"><img src="https://i.ibb.co/h1WTXLy/314816776-2179666355557298-4679113184637958285-n.png" alt="314816776-2179666355557298-4679113184637958285-n" border="0"></a>
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+3)	Write custom CSS code that passes through the official (Jigsaw) validator with no issues
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+<a href="https://ibb.co/gwGGhSv"><img src="https://i.ibb.co/P4RR0cT/Screen-Shot-2022-11-29-at-5-49-50-PM.png" alt="Screen-Shot-2022-11-29-at-5-49-50-PM" border="0"></a>
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+4)	Incorporate images that are of sufficient resolution to not appear pixelated or stretched // Pictures on website with 400px diff.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+<a href="https://ibb.co/qn9D3VC"><img src="https://i.ibb.co/7zVSdLQ/Screen-Shot-2022-11-29-at-5-51-41-PM.png" alt="Screen-Shot-2022-11-29-at-5-51-41-PM" border="0"></a>
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+<a href="https://ibb.co/GtrLRBF"><img src="https://i.ibb.co/3MPqcGk/Screen-Shot-2022-11-29-at-5-51-54-PM.png" alt="Screen-Shot-2022-11-29-at-5-51-54-PM" border="0"></a>
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+5)	Code all external links to open in a separate tab when clicked
+Everything done with nooper.        
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+<a href="https://ibb.co/xDbtY0L"><img src="https://i.ibb.co/L8yXrWR/Screen-Shot-2022-11-29-at-5-55-06-PM.png" alt="Screen-Shot-2022-11-29-at-5-55-06-PM" border="0"></a>
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+6)	Use CSS media queries across the application to ensure the layout changes appropriately and maintains the page's structural integrity across device screen sizes. This process can be found below 371 in style.css.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/K6Kr7Qb/Screen-Shot-2022-11-29-at-5-56-13-PM.png" alt="Screen-Shot-2022-11-29-at-5-56-13-PM" border="0"></a>
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+7)	Use Semantic markup to structure HTML code / Done with sections and divs. 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qrYnf7x/Screen-Shot-2022-11-29-at-5-58-11-PM.png" alt="Screen-Shot-2022-11-29-at-5-58-11-PM" border="0"></a>
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+8)	Present the finished website with clearly understandable site-specific content, rather than Lorem Ipsum placeholder text
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Font is found, looking alot like the actual F1 font, which was nearly impossible to optain due to copyright.
 
-------
+9)	Implement clear navigation to allow users to find resources on the site intuitively. YT-links provides mentioned information. Links will guide user towards pages with more information.
 
-## FAQ about the uptime script
+## Assessment Criteria 3
 
-**Why have you added this script?**
+Deploy a Front-End web application to a Cloud platform
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+1)	Deploy a final version of the code to a cloud-based hosting platform (e.g. GitHub Pages) and test to ensure it matches the development version
 
-**How will this affect me?**
+<a href="https://ibb.co/XXjfJyQ"><img src="https://i.ibb.co/2qW0K89/Screen-Shot-2022-11-29-at-6-02-29-PM.png" alt="Screen-Shot-2022-11-29-at-6-02-29-PM" border="0"></a>
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Link for Website: [Click me to become a Formula1 fan](https://jacquesiversen.github.io/project1/)
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+2)	Use Git & GitHub for version control of an interactive web application up to deployment. // Check 
+3)	Remove commented-out code before pushing final changes to version control and deploying. // Check
+4)	Ensure that there are no broken internal links // Check
+5)	Insert screenshots of the finished project in the README Well.... Welcome..
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+## Assessment Criteria 4
+Maximise future maintainability through documentation, code structure and organisation
 
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+1	Write a README.md file for the web application that explains its purpose, the value that it provides to its users, and the deployment procedure.
+2	Insert screenshots of the project features, give a brief description of what each feature does and explain its value to the user.
+3	Attribute all code from external sources to its original source via comments above the code and (for larger dependencies) in the README.
+4	Clearly separate and identify code written for the website and code from external sources (e.g. libraries or tutorials)
+5	Organise HTML and CSS code into well-defined and commented sections
+6	Place CSS code in external files linked to the HTML page in the HEAD element.
+7	Write code that meets at least minimum standards for readability (consistent indentation, blank lines only appear individually or, at most, in pairs)
+8	Name files consistently and descriptively, without spaces or capitalisation to allow for cross-platform compatibility.
+9	Group files in directories by file type (e.g. an assets directory will contain all static files and may be organised into sub-directories such as CSS, images, etc.)
