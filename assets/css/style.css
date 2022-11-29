@@ -99,7 +99,7 @@ hr {
     border-bottom: #e10600 3px solid;
     border-top: #e10600 3px solid;
 }
-#red-f-circle {
+.red-f-circle {
     background-color: #e10600;
     width: 75px;
     height: 75px;
