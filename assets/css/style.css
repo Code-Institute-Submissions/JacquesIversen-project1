@@ -117,7 +117,7 @@ hr {
     font-style: oblique;
     font-weight: bold;
 }
-#green-f-circle {
+.green-f-circle {
     background-color: #0df309;
     width: 75px;
     height: 75px;
@@ -390,7 +390,7 @@ footer {
     #red-f-img {
         height: 400px;
     }
-    #red-f-circle, #green-f-circle {
+    .red-f-circle, .green-f-circle {
         width: 55px;
         height: 55px;
         line-height: 55px;
@@ -466,4 +466,47 @@ footer {
         display: grid;
         height: 1000px;
     }
+}
+
+@media screen and (max-width:400px) {
+
+#menu {
+    height: 160px;
+    font-size: 70%;
+}
+#logo {
+    font-size: 14px;
+    text-align: center;
+}
+#container {
+    height: 1000px;
+}
+#red-f-img {
+    height: 300px;
+}
+.red-f-circle, .green-f-circle {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 0;
+    top: 10px;
+    left: 12px;
+}
+#q3-detail {
+    height: 450px;
+}
+#race  {
+    height: 2900px;
+}
+
+#race-ending {
+    height: 2200px;
+}
+
+.season-2022-max {
+    height: 800px;
+}
+
+.season-2022-lewis {
+    height: 1300px;
 }
