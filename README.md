@@ -8,7 +8,7 @@ This site will describe the last race of the formula 1 season of 2021. Who due t
 
 # Features
 
-Navigation bar - Takes you to the three pages this wite contains. 
+Navigation bar - Takes you to the three pages this site contains. 
 - Home / index.html (Takes you to the homepage)
 - Max / max.html (Short description of Max Verstappen's accomplishments upon the 2021 season)
 - Lewis / lewis.html (Shorthand describtion of Lewis Hamilton on his upcoming 2022 season) 
@@ -25,7 +25,7 @@ This sections is build by a black background with white textboxes containing nar
 
 <a href="https://ibb.co/KjMxQMC"><img src="https://i.ibb.co/ccGhpGz/Screen-Shot-2022-11-29-at-10-33-06-PM.png" alt="Screen-Shot-2022-11-29-at-10-33-06-PM" border="0"></a>
 
-In this img section, a red Ferrari 458-GT3 is used instead of an actual F1 car, due to insecurity concerning copyright. When this matter was solved, this actual picture (From shutterstock) had grown fond of the developer, hence it wasn't replaced. 
+In this img section, a red Ferrari 458-GT3 is used instead of an actual F1 car, due to insecurity concerning copyright. When this matter was solved, this actual picture (From shutterstock) had grown familiar to the developer, hence it wasn't replaced. 
 
 5 red dots, sitting on top of 5 green dots indicates the 10 lights of the F1 paddock. 
 The text inside the the dots/lights is the very notorious phrase of David Croft "Crofty" (F1 TV commentator)
@@ -34,7 +34,7 @@ The text inside the the dots/lights is the very notorious phrase of David Croft 
 
 <a href="https://ibb.co/8848FDf"><img src="https://i.ibb.co/DKgK3Dv/Screen-Shot-2022-11-29-at-10-39-21-PM.png" alt="Screen-Shot-2022-11-29-at-10-39-21-PM" border="0"></a>
 
-A small black-background box with a silver merc (from pexels.com) pushed to the 2/3 side of the frame. A red border was added to fight the quite boring theme of black & white. The text sections sums only the Q3 element of the race. 
+A small black-background box with a silver merc (from pexels.com) pushed to the 2/3 side of the frame. A red border was added to both fight the quite boring theme of black & white, bbut also create clear boundaries for in regards to any ADA concerns. The text sections sums only the Q3 element of the race. 
 
 # Race Section
 
@@ -94,7 +94,7 @@ Text within 'lights' will be removed in smaller screens.
 
 # Validator Testing
 
-## HTMl 
+## HTML 
 - Index.html / 2 errors found, and solved, but if solved removes 'lights out' from their intended placement. Errors due to h1 placement.
 
 <a href="https://ibb.co/y5LZZpY"><img src="https://i.ibb.co/ZKyFFSY/Screen-Shot-2022-11-29-at-11-25-40-PM.png" alt="Screen-Shot-2022-11-29-at-11-25-40-PM" border="0"></a>
@@ -130,10 +130,10 @@ Livelink : https://jacquesiversen.github.io/project1/
 - W3 Schools for help, especially with CSS issues. 
 
 ## Content:
-- Homepage from Wikipedia : https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix, Content is not edited. Irrelevant infomation spared. 
+- Homepage from Wikipedia : https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix, Content is not edited. Irrelevant infomation spared for simplicity and ease of reading for users/visitors. 
 - Icons not only from FontAwesome, but also from the LoveRunning project. 
 
 ## Media:
 - Youtube videos, not accurate, but satirical, 
-- Photes on homepage from Shuttershock and Pexels.
-- Photos on page Max and Lewis, taken from mighty Google. 
+- Photos on homepage from Shuttershock and Pexels.
+- Photos on page Max and Lewis, taken from Google image search. 
