@@ -92,7 +92,7 @@ hr {
 /* Red Ferrari background with lights out */
 }
     #red-f-img {
-    background: url(../images/pexels-daniel-158971.jpg) no-repeat center center;
+    background: url(../images/pexels-daniel-158971.webp) no-repeat center center;
     height: 600px;
     width: 100%;
     background-size: cover;
@@ -268,7 +268,7 @@ footer i {
 }
 /* Max's Page follows here */
 .max-img {
-    background: url(../images/max.3.jpeg) no-repeat center center;
+    background: url(../images/max.3.webp) no-repeat center center;
     height: 600px;
     width: 100%;
     background-size: cover;
@@ -290,7 +290,7 @@ footer i {
 /* Lewis page follows here:*/
 
 .ham-img {
-    background: url(../images/Ham\ 2.jpeg) no-repeat center center;
+    background: url(../images/Ham-2.webp) no-repeat center center;
     height: 600px;
     width: 100%;
     background-size: cover;
