@@ -92,19 +92,47 @@ Text within 'lights' will be removed in smaller screens.
 
 - Youtube-links were comprised due to copyright issues from F1 TV and devoloper not agreeing to sacrifice intended design.
 
+- Validator caused errors in between line 53-67 in Index file. This was solved with <sections> Replaced with <div>
+- Warnings with use of h1 in race-bio. Solved with replacement to h2.
+
+- Lighthouse run: All pictures converted from jpeg to webp.
+
 # Validator Testing
 
 ## HTML 
-- Index.html / 2 errors found, and solved, but if solved removes 'lights out' from their intended placement. Errors due to h1 placement.
+- Index.html / No errors or faults.
 
-<a href="https://ibb.co/y5LZZpY"><img src="https://i.ibb.co/ZKyFFSY/Screen-Shot-2022-11-29-at-11-25-40-PM.png" alt="Screen-Shot-2022-11-29-at-11-25-40-PM" border="0"></a>
-
+<a href="https://ibb.co/6wVJnry"><img src="https://i.ibb.co/54txMG1/Screen-Shot-2022-11-30-at-10-24-22-AM.png" alt="Screen-Shot-2022-11-30-at-10-24-22-AM" border="0"></a>
 
 - max.html / No errors or faults.
 - lewis.html / No errors or faults.
 
 - style.css / No errors or faults.
+<a href="https://ibb.co/ByV7MfQ"><img src="https://i.ibb.co/StX1C6M/Screen-Shot-2022-11-30-at-11-01-11-AM.png" alt="Screen-Shot-2022-11-30-at-11-01-11-AM" border="0"></a>
 
+
+# Lighthouse
+
+Pictures keep running performance low, even after converted to webp. 
+
+## Desktop Home page
+<a href="https://ibb.co/30Rx94f"><img src="https://i.ibb.co/19zCt7s/Screen-Shot-2022-11-30-at-10-54-12-AM.png" alt="Screen-Shot-2022-11-30-at-10-54-12-AM" border="0"></a>
+
+## Mobile Home page
+<a href="https://ibb.co/5xZdW8d"><img src="https://i.ibb.co/G3mXv2X/Screen-Shot-2022-11-30-at-10-50-11-AM.png" alt="Screen-Shot-2022-11-30-at-10-50-11-AM" border="0"></a>
+
+
+## Desktop Max page
+<a href="https://ibb.co/RCX9dQ2"><img src="https://i.ibb.co/8jy0tPM/Screen-Shot-2022-11-30-at-10-53-25-AM.png" alt="Screen-Shot-2022-11-30-at-10-53-25-AM" border="0"></a>
+
+## Mobile Max page
+<a href="https://ibb.co/wJF73S1"><img src="https://i.ibb.co/dbwt1Py/Screen-Shot-2022-11-30-at-10-50-35-AM.png" alt="Screen-Shot-2022-11-30-at-10-50-35-AM" border="0"></a>
+
+## Desktop Lewis page
+<a href="https://ibb.co/JpwRSYR"><img src="https://i.ibb.co/Kspj8tj/Screen-Shot-2022-11-30-at-10-53-05-AM.png" alt="Screen-Shot-2022-11-30-at-10-53-05-AM" border="0"></a>
+
+## Mobile Lewis page
+<a href="https://ibb.co/dtFqC0k"><img src="https://i.ibb.co/5kmypWs/Screen-Shot-2022-11-30-at-10-52-05-AM.png" alt="Screen-Shot-2022-11-30-at-10-52-05-AM" border="0"></a>
 
 # Unfixed Bugs
 Validator Errors - When solved causes the whole site to crash completely.
